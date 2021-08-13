@@ -23,11 +23,15 @@ Commit your code regularly and meaningfully.
 Please answer the following questions below, you may edit the readme file to include your answers below the question.
 
 1. How would you describe acessibility on the web to someone new to programming?
+    accessibility is about making a website as usable as possible to the most amount of people. This would include people that are accessing the site through all types of technology such as modile devices and or desktops.
 2. Talk about 3 different things you can do to ensure your website is accessible. 
+    first we can reset our css by adding a reset to the styling sheet. This will allow our website to be more accessible across browsers, we do this by simply copying and pasting the reset into the styling sheet. Second we can add media queries to the page so that our website can be accessible to desktop and mobile devices. Lastly we can use proper semantic syntax in order for our website to be more readable to the user. 
 3. How would you explain the concept of a variable to someone new to programming?
+    A variable is an object that stores data inside of it, much like a box that you use to store items. Variables also are declared and have a specific name attached to it, this is like taking a pen and writing a name on the box. So now you have a peice of data that you can reference for later use. Example var myBox = 'what ever data that I want to put here'. A variable can also be anything that I want it to be, it can be a string, boolean, number, array, and objects. 
 4. What is the purpose of using functions in code?
+    the purpose of functions in code is to maniplulate data in order to recieve an outcome we need. This provides interaction and usablity to the user. For example if a user is on our website and is searching for specific information we would use a function to reference our data base in order to more easily help that person find the information they are looking for. Functions serve a wide variety of purposes in coding but for web developement it really provides the user with an experience. 
 5. How do you access a key inside of an object inside of an array?
-
+    we would first start by naming the array, then we would use array index in order to reference that object and finally we would use dot notation in order to point to a specfic key. example array[index].key. this will access the information inside of the key. 
 You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade. 
 
 ## Instructions
